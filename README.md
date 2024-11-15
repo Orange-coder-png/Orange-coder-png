@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Orange-coder-png, a student in NanChang University. 
-- 👀 I’m interested in mathmatic and computer science. 
+- 👀 I’m interested in mathematics and computer science. 
 - 🌱 I’m currently learning Information and computational science.
 - 💞️ I’m looking to collaborate on Mathematical Modeling. 
 - 📫 How to reach me:
