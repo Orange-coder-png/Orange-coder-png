@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Orange-coder-png, a student in NanChang University. 
+- 👀 I’m interested in mathmatic and computer science. 
+- 🌱 I’m currently learning Information and computational science.
+- 💞️ I’m looking to collaborate on Mathematical Modeling. 
+- 📫 How to reach me:
+-     ①q1815054798@outlook.com
+-     ②1815054798@qq.com
+-     ③WeChat:17832380849
+- 😄 Pronouns: None. 
+- ⚡ Fun fact: None. 
